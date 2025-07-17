@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Irshad Ali
 
-<!--
-**IRSHAD-ALI001/IRSHAD-ALI001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student @ Ajeenkya DY Patil University, Pune  
+💻 Backend Developer | Python, Flask, Django, FastAPI  
+🤖 AI Integrator | ChatGPT, Gemini, LLaMA, VO by Vercel  
+🧠 DSA Enthusiast | Problem Solver on LeetCode, HackerRank  
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- **Languages:** Python, Java, JavaScript
+- **Backend:** Flask, Django, FastAPI
+- **Frontend:** HTML, CSS, Tailwind CSS, Next.js
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **AI/ML:** Gemini API, ChatGPT, Prompt Engineering
+- **Tools:** Postman, Git, Render, Vercel, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me
+📧 irshadalinjr@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+🏆 [HackerRank](https://www.hackerrank.com/profile/irshadalinjr)
+
