@@ -7,9 +7,9 @@
 
 
 ## 🧰 Tech Stack
-- **Languages:** Python, Java, JavaScript
+- **Languages:** Python, Java,C++
 - **Backend:** Flask, Django, FastAPI
-- **Frontend:** HTML, CSS, Tailwind CSS, Next.js
+- **Frontend:** HTML, CSS, javascript
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **AI/ML:** Gemini API, ChatGPT, Prompt Engineering
 - **Tools:** Postman, Git, Render, Vercel, Netlify
