@@ -2,7 +2,7 @@
 **AI Enthusiast | Machine Learning Engineer | Backend Developer | Prompt Engineer**
 
 🔬 Passionate about building intelligent systems using **Artificial Intelligence, Machine Learning, and Data Science**  
-💻 Currently pursuing **MCA** (9.02 CGPA) from Ajeenkya DY Patil University, Pune  
+💻 **MCA** graduate (9.02 CGPA) from Ajeenkya DY Patil University, Pune  
 📍 Based in Pune, India
 
 ---
