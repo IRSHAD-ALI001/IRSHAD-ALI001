@@ -50,13 +50,6 @@
 
 ---
 
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irshad%20Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/irshadali/)  
-[![GitHub](https://img.shields.io/badge/GitHub-irshadali-black?style=flat&logo=github)](https://github.com/irshadali)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-irshadali-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/irshadalinjr)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-irshadali-orange?style=flat&logo=leetcode)](https://leetcode.com/irshadali/)
-
 📧 **Email**: irshadalinjr@gmail.com  
 📱 **Phone**: +91 9637273595
 
