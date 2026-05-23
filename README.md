@@ -12,7 +12,7 @@
 | Category                  | Technologies & Tools                                                                 |
 |---------------------------|---------------------------------------------------------------------------------------|
 | **Languages**             | Python • Java • SQL • HTML/CSS                                                      |
-| **AI / ML / Data Science**| Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • NLP • Hugging Face • DistilBERT |
+| **AI / ML / Data Science**| Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • NLP • Gen AI |
 | **Backend & APIs**        | Flask • REST APIs • Firebase • MySQL                                                |
 | **Data Visualization**    | Power BI • Matplotlib • Seaborn                                                     |
 | **Tools & Platforms**     | Git & GitHub • Postman • Render • Vercel • Google Colab • Google Cloud • Jupyter    |
