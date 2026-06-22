@@ -1,5 +1,5 @@
 # Hi, I'm **Irshad Ali** 👋  
-**AI Enthusiast | Machine Learning Engineer | Backend Developer | Prompt Engineer**
+**AI Enthusiast |AI Engineer| Machine Learning Engineer | Deep learning | Backend Developer | **
 
 🔬 Passionate about building intelligent systems using **Artificial Intelligence, Machine Learning, and Data Science**  
 💻 **MCA** graduate (9.02 CGPA) from Ajeenkya DY Patil University, Pune  
